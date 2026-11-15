@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "packageName": "com.ahmed.lgremote",
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/AhmedHashem500/lgremote-releases/releases/download/v1.6/lgremote-1.6.apk",
-  "sha256": "f9d5f34a6966189a83af50cac0002a65aa85b3cc82579a0ec23d169acbb22fc5",
-  "sizeBytes": 45542,
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/AhmedHashem500/lgremote-releases/releases/download/v1.7/lgremote-1.7.apk",
+  "sha256": "ba434481e8eb514e9909df6c1271443fb0d8d79b32e036cd2a40fc6e6bb689a9",
+  "sizeBytes": 49638,
   "minSdk": 24,
-  "notes": "تحديث تلقائي للريموت + شاشة البحث بالعربي",
+  "notes": "التحديثات بقت من سيرفر العيلة الخاص، ومن غير شاشة التأكيد",
   "mandatory": false,
-  "publishedAt": "2026-11-14T20:30:07Z"
+  "publishedAt": "2026-11-15T01:09:06Z"
 }
